@@ -4,7 +4,7 @@ A degree component for apps dealing with weather temperatures. for eg. 23 degree
 This component uses React Native <View /> component to create the circular structure rather than a png icon. Refer the screenshot below.
 
 #### Screenshot
-<img src="http://jsphkhan.github.io/DegreeComponent/degree.png" />
+<img src="http://jsphkhan.github.io/TreeVisualizer/view.gif" />
 
 #### How to use?
 ###### Import the component
